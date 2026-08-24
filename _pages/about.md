@@ -30,9 +30,6 @@ I am currently a Ph.D. student at the [AIM group](http://www.ee.cuhk.edu.hk/~yxy
 (†: equal contribution)<br>
 
 **Journal**
-- **Hierarchical Learning Framework for X**<br>
-  **Tianliang Yao** et al.,<br>
-  IEEE Transactions on Robotics (T-RO), 2026. (JCR Q1, IF: 11.1, Conditionally Accepted)
 - **Advancing Embodied Intelligence in Robotic-Assisted Endovascular Procedures: A Systematic Review of AI Solutions**<br>
   **Tianliang Yao**, Bo Lu, Markus Kowarschik, Yixuan Yuan, Hubin Zhao, Sébastien Ourselin, Kaspar Althoefer, Junbo Ge, Peng Qi<br>
   IEEE Reviews in Biomedical Engineering (RBME), 2026. (JCR Q1, IF: 16.0, Acceptance rate: 6%)<br>
