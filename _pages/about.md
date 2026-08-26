@@ -82,6 +82,7 @@ I am currently a Ph.D. student at the [AIM group](http://www.ee.cuhk.edu.hk/~yxy
 
 <span class='anchor' id='ta'></span>
 # 📖 Teaching Assistant
+- ELEG4512: Digital Image Processing, 2026-2027 Fall.
 - ENGG5202: Pattern Recognition, 2025-2026 Spring.
 - ELEG4512: Digital Image Processing, 2025-2026 Fall.
 
