@@ -19,13 +19,15 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 I am currently a Ph.D. student in Control Science and Engineering at the
-[Harbin Institute of Technology](https://www.hit.edu.cn/).
+Research Institute of Intelligent Control and Systems,
+[Harbin Institute of Technology](https://www.hit.edu.cn/),
+under the supervision of Prof. Zhan Li.
 My research interests mainly focus on aerial manipulation, nonlinear control,
 disturbance estimation and rejection, transient performance control,
 and robot learning.
 
-**Recent focus:** Aerial Manipulation, Robot Learning, Robust Flight Control,
-Disturbance Estimation and Rejection, and Whole-Body Motion Planning.
+**Recent focus:** Whole-Body Motion Planning, Robot Learning, Robust Flight Control,
+Disturbance Estimation and Rejection, and Aerial Manipulation.
 
 
 <span class='anchor' id='news'></span>
@@ -33,14 +35,13 @@ Disturbance Estimation and Rejection, and Whole-Body Motion Planning.
 
 - *2026.08*: Our paper on predefined-time sliding mode control for aerial manipulators was published in **Nonlinear Dynamics**.
 - *2026.06*: Attended **IEEE International Conference on Robotics and Automation (ICRA 2026)** in Vienna, Austria.
-- *2026.01*: Our paper on transient process shaping flight control was published in **IEEE Transactions on Industrial Electronics**.
-- *2026.01*: Our tendon-driven aerial manipulator **ATOM** was published in **IEEE Robotics and Automation Letters**.
+- *2025.11*: Our tendon-driven aerial manipulator **ATOM** was published in **IEEE Robotics and Automation Letters**.
+- *2025.07*: Our paper on transient process shaping flight control was published in **IEEE Transactions on Industrial Electronics**.
+
 
 
 <span class='anchor' id='publications'></span>
 # 📝 Selected Publications
-
-(**Quman Xu** denotes myself.)
 
 **Journal**
 
@@ -57,6 +58,7 @@ Disturbance Estimation and Rejection, and Whole-Body Motion Planning.
 - **ATOM: A Tendon-Driven Aerial Manipulator Achieving High Stiffness, High Torque, and Low Coupling Disturbance**<br>
   **Quman Xu**, Zhan Li, Hai Li, Yipeng Yang, Xinghu Yu, Zhang Chen<br>
   *IEEE Robotics and Automation Letters*, vol. 11, no. 1, pp. 522–529, 2026.
+  [Paper](https://doi.org/10.1109/LRA.2025.3632099)
 
 - **Safety-Critical Fixed-Time Distributed Formation Control for Miniature Robot Swarm Based on Embedded Dynamic Control Barrier Functions**<br>
   Jinhui Liu, Zhan Li, **Quman Xu**, Yipeng Yang, Xinghu Yu, Juan J. Rodríguez-Andina<br>
@@ -73,8 +75,10 @@ Disturbance Estimation and Rejection, and Whole-Body Motion Planning.
 **Journal Reviewer**
 - IEEE/ASME Transactions on Mechatronics (T-Mech)
 - IEEE Robotics and Automation Letters (RA-L)
+- IEEE Transactions on Systems, Man, and Cybernetics: Systems (T-SMC)
 - IEEE Transactions on Industrial Electronics (TIE)
 - IEEE Transactions on Industrial Informatics (TII)
+- IEEE Transactions on Automation Science and Engineering (T-ASE)
 - Scientific Reports
 - International Journal of Intelligent Robotics and Applications
 - Journal of Intelligent & Robotic Systems
@@ -89,6 +93,17 @@ Disturbance Estimation and Rejection, and Whole-Body Motion Planning.
 
 
 # 🏆 Selected Honors and Awards
+
+- IEEE ICRA 2026 RAS Travel Grant Award, 2026.
+- Outstanding Student, Harbin Institute of Technology, 2024.
+- Outstanding Student, Harbin Institute of Technology, 2023.
+- Outstanding Graduate, Harbin Institute of Technology, 2020.
+- Outstanding Student, Harbin Institute of Technology, 2019.
+- AVIC 613 Second-Class Scholarship, 2019.
+- First-Class Scholarship, Harbin Institute of Technology, 2018–2019.
+- Third Prize, Zhou Peiyuan National Mechanics Competition, 2017.
+- Outstanding Student, Zhengzhou University, 2016–2017.
+- First-Class Scholarship, Zhengzhou University, 2013–2016.
 
 
 <a href='https://mapmyvisitors.com/web/1byr7'  title='Visit tracker'><img src='https://mapmyvisitors.com/map.png?cl=ffffff&w=600&t=tt&d=P_j5NmoygM3uhcWirSjS9X1L1wIFmErKg8e9GxZQA5Y'/></a>
