@@ -6,29 +6,29 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Tianliang YAO's Homepage"
-description              : "Ph.D. student @ CUHK EE"
-repository               : "Metaphysicist0/Metaphysicist0.github.io"
+title                    : "Quman Xu's Homepage"
+description              : "Ph.D. student @ Harbin Institute of Technology"
+repository               : "xuguman/xuguman.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
-google_analytics_id      :  # get google_analytics_id from https://analytics.google.com/analytics/
+google_analytics_id      :
 
 # SEO Related
-google_site_verification :  # get google_site_verification from https://search.google.com/search-console/about
-bing_site_verification   :  # get bing_site_verification from https://www.bing.com/webmasters/about
-baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.baidu.com/login/index?u=/site/index
+google_site_verification :
+bing_site_verification   :
+baidu_site_verification  :
 
 # Site Author
 author:
-  name             : "Tianliang YAO"
+  name             : "Quman Xu"
   avatar           : "images/profile.jpg"
-  bio              : "AI-Driven Healthcare, Embodied Intelligence for medical robotics."
-  location         : "Hong Kong SAR"
-  employer         : 
-  pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=XwJMmG4AAAAJ&hl=zh-CN"
-  email            : "2150248@tongji.edu.cn"
+  bio              : "Aerial Manipulation, Robot Learning, Robust Control."
+  location         : "Harbin, China"
+  employer         : "Harbin Institute of Technology"
+  pubmed           :
+  googlescholar    :
+  email            :
   researchgate     :
   uri              :
   bitbucket        :
@@ -37,21 +37,21 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           :
+  github           : "xuguman"
   google_plus      :
   keybase          :
   instagram        :
-  impactstory      : 
+  impactstory      :
   lastfm           :
-  linkedin         : "tianliang-yao-0968a4288"
+  linkedin         :
   dblp             :
-  orcid            : "https://orcid.org/0009-0000-7063-3880"
+  orcid            :
   pinterest        :
   soundcloud       :
   stackoverflow    :
   steam            :
   tumblr           :
-  twitter          : 
+  twitter          :
   vine             :
   weibo            :
   xing             :
