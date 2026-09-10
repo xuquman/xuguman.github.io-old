@@ -16,44 +16,52 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <span class='anchor' id='about-me'></span>
-I am currently a Ph.D. student at the [AIM group](http://www.ee.cuhk.edu.hk/~yxyuan/index.htm) at the [Department of Electronic Engineering](https://www.ee.cuhk.edu.hk/en-gb/), [The Chinese University of Hong Kong](https://www.cuhk.edu.hk/chinese/index.html), supervised by Prof. [Yixuan Yuan](http://www.ee.cuhk.edu.hk/~yxyuan/). Previously, I received my B.Eng. degree from the [Department of Control Science and Engineering](https://cse.tongji.edu.cn/), [College of Electronics and Information Engineering](https://see.tongji.edu.cn/) at [Tongji University](https://www.tongji.edu.cn/), guided by Prof. [Peng Qi](https://cse.tongji.edu.cn/6b/68/c15580a158568/page.htm).
+<span class='anchor' id='about-me'></span>
 
-**Recent focus:** AI-Driven Healthcare, Embodied Intelligence for Medical Robotics, Robotic Interventional Therapy.
+I am currently a Ph.D. student in Control Science and Engineering at the
+[Harbin Institute of Technology](https://www.hit.edu.cn/).
+My research interests mainly focus on aerial manipulation, nonlinear control,
+disturbance estimation and rejection, transient performance control,
+and robot learning.
+
+**Recent focus:** Aerial Manipulation, Robot Learning, Robust Flight Control,
+Disturbance Estimation and Rejection, and Whole-Body Motion Planning.
+
 
 <span class='anchor' id='news'></span>
 # 🔥 News
-- *2026.05*: I pass the Ph.D. screening test (Committee: Prof. [Qi Dou](https://www.cse.cuhk.edu.hk/~qdou/) and Prof. [Jiewen Lai](https://samlai.me/)).
-- *2025.08*: I start my Ph.D. journey at AIM Group, CUHK EE.
+
+- *2026.08*: Our paper on predefined-time sliding mode control for aerial manipulators was published in **Nonlinear Dynamics**.
+- *2026.06*: Attended **IEEE International Conference on Robotics and Automation (ICRA 2026)** in Vienna, Austria.
+- *2026.01*: Our paper on transient process shaping flight control was published in **IEEE Transactions on Industrial Electronics**.
+- *2026.01*: Our tendon-driven aerial manipulator **ATOM** was published in **IEEE Robotics and Automation Letters**.
+
 
 <span class='anchor' id='publications'></span>
-# 📝 Selected Publications 
-(†: equal contribution)<br>
+# 📝 Selected Publications
+
+(**Quman Xu** denotes myself.)
 
 **Journal**
-- **Advancing Embodied Intelligence in Robotic-Assisted Endovascular Procedures: A Systematic Review of AI Solutions**<br>
-  **Tianliang Yao**, Bo Lu, Markus Kowarschik, Yixuan Yuan, Hubin Zhao, Sébastien Ourselin, Kaspar Althoefer, Junbo Ge, Peng Qi<br>
-  IEEE Reviews in Biomedical Engineering (RBME), 2026. (JCR Q1, IF: 16.0, Acceptance rate: 6%)<br>
-  <span style="color:#d32f2f">(**Featured Article**)
-- **Multi-Agent Fuzzy Reinforcement Learning with LLM for Cooperative Navigation of Endovascular Robotics**<br>
-  **Tianliang Yao**, Yueqi Xu, Haoyu Wang, Xihe Qiu, Kaspar Althoefer, Peng Qi<br>
-  IEEE Transactions on Fuzzy Systems (T-FS), 2025. (JCR Q1, IF: 11.9)<br>
-  <span style="color:#d32f2f">(**ESI Highly Cited Paper**)
-- **Sim2Real Learning with Domain Randomization for Autonomous Guidewire Navigation in Robotic-Assisted Endovascular Interventions**<br>
-   **Tianliang Yao**, Haoyu Wang, Bo Lu, Jiajia Ge, Zhiqiang Pei, Markus Kowarschik, Lining Sun, Lakmal Seneviratne, Peng Qi<br>
-   IEEE Transactions on Automation Science and Engineering (T-ASE), 2025. (JCR Q1, IF: 6.4, **IROS 2025 Oral**)<br>
 
-**Conference**
-- **Real-Time 3D Guidewire Reconstruction from Intraoperative DSA Images for Robot-Assisted Endovascular Interventions**<br>
-  **Tianliang Yao**, Bingrui Li, Bo Lu, Zhiqiang Pei, Yixuan Yuan, Peng Qi<br>
-   IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), Hangzhou, China, 2025. (**Oral**)
-- **Sim4EndoR: A Reinforcement Learning Centered Simulation Platform for Task Automation of Endovascular Robotics**<br>
-  **Tianliang Yao**, Jingwei Song, Madaoji Ban, Bo Lu, Zhiqiang Pei, Peng Qi<br>
-  IEEE International Conference on Robotics and Automation (ICRA), Atlanta, USA, 2025.<br>
-  <span style="color:#d32f2f">(**IEEE ICRA RAS Travel Grant Award**)</span>
-- **A Haptic Exploration and Surface Classification of Objects with Four Typical Surface Properties**<br>
-  Peng Qi, Yunfeng Wu, **Tianliang Yao**, Bo Lu, Yi Sun, Jian S. Dai<br>
-  IEEE Conference on Advanced Robotics and Mechatronics (ICARM), Sanya, China, 2023.<br>
-  <span style="color:#d32f2f">(**Best Conference Paper Finalist**)</span>
+- **Predefined-time sliding mode control for aerial manipulator based on the robust adaptive learning rate neural network state observer**<br>
+  **Quman Xu**, Zhan Li, Yipeng Yang, Xinghu Yu<br>
+  *Nonlinear Dynamics*, vol. 114, Art. no. 995, 2026.<br>
+  [Paper](https://doi.org/10.1007/s11071-026-12893-y)
+
+- **Transient Process Shaping Flight Control for Aerial Manipulator Systems With Predefined Damping and Stiffness Behavior**<br>
+  **Quman Xu**, Zhan Li, Jinhui Liu, Xinghu Yu<br>
+  *IEEE Transactions on Industrial Electronics*, vol. 73, no. 1, pp. 937–948, 2026.<br>
+  [Paper](https://doi.org/10.1109/TIE.2025.3591691)
+
+- **ATOM: A Tendon-Driven Aerial Manipulator Achieving High Stiffness, High Torque, and Low Coupling Disturbance**<br>
+  **Quman Xu**, Zhan Li, Hai Li, Yipeng Yang, Xinghu Yu, Zhang Chen<br>
+  *IEEE Robotics and Automation Letters*, vol. 11, no. 1, pp. 522–529, 2026.
+
+- **Coupling Disturbance Modeling and Compensation for Aerial Manipulator in Highly Dynamic Motion**<br>
+  Zhan Li, Hai Li, **Quman Xu**, Xinghu Yu, Michael V. Basin<br>
+  *IEEE Transactions on Cybernetics*, vol. 55, no. 1, pp. 124–135, 2025.<br>
+  [Paper](https://doi.org/10.1109/TCYB.2024.3476124)
 
 <span class='anchor' id='services'></span>
 # 🎖 Selected Services
